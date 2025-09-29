@@ -1,5 +1,5 @@
 # harmony-heigths
-Bem-vindo ao site oficial da banda **Harmony Heights**!
+Bem-vindo ao site oficial da banda **Harmony Heights**! (projeto para aprender como fazer deploy)
 
 ## Sobre
 
